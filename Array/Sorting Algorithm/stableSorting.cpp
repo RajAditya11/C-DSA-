@@ -40,24 +40,7 @@ void insertionSort(vector<int> &arr)
     }
 }
 
-
-
-
-
-
-
-
 // Merge Sort algorithm
-
-
-
-
-
-
-
-
-
-
 
 void merge(vector<int> &arr, int left, int mid, int right)
 {
@@ -119,32 +102,7 @@ void mergeSort(vector<int> &arr, int left, int right)
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 // Tim Sort algorithm
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 void timSort(vector<int> &arr)
 {
